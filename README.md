@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Mohamed Abdulaziz 👋</h1>
 <p align="center">
-  💻 Frontend Developer | 🧠 Ex-Embedded Systems Engineer | 🚀 Aspiring Full Stack Developer
+  💻 Frontend Developer | 🚀 Aspiring Full Stack Developer | 🧠 Ex-Embedded Systems Engineer 
 </p>
 
 ---
